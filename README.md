@@ -18,22 +18,6 @@ You can view the live site here: [lewisclifford63.github.io/Portfolio_project](h
 - **JavaScript**: For interactivity and animations.
 - **GitHub Pages**: For hosting the website.
 
-## Projects
-
-Here are some key projects featured on my portfolio:
-
-1. **Data Visualization Tool**  
-   A Python tool for visualizing datasets with libraries like Matplotlib and Seaborn.  
-   [View on GitHub](https://github.com/yourGitHubUsername/data-visualization-tool)
-
-2. **Portfolio Website**  
-   This responsive portfolio website built with HTML, CSS, and JavaScript.  
-   [View on GitHub](https://github.com/lewisclifford63/portfolio_project)
-
-3. **Automated Data Processing in Excel**  
-   VBA macros that automate data processing tasks, reducing manual effort by 80%.  
-   [View on GitHub](https://github.com/yourGitHubUsername/excel-vba-macros)
-
 ## Contact
 
 For any inquiries or collaboration opportunities:
