@@ -24,7 +24,3 @@ For any inquiries or collaboration opportunities:
 
 - **Email**: lewisclifford63@gmail.com
 - **GitHub**: [github.com/lewisclifford63](https://github.com/lewisclifford63)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
